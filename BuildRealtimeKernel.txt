@@ -1,0 +1,2 @@
+Kernel customization. Build the Real-time kernel. Confirmed to work.
+https://docs.nvidia.com/jetson/archives/r35.4.1/DeveloperGuide/text/SD/Kernel/KernelCustomization.html
